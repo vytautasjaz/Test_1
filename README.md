@@ -29,7 +29,7 @@ Create new repository, push this file with answers and send me a like;
     Add folowing lines with corect paths in webpack.config.js, under module.exports:
     output: {
     filename: 'filename.js',
-    path: path.resolve(__dirname, 'public'),
+    path: path.resolve(__dirname, 'directory_name'),
     }
 ### 8. How to create new repository in Github?
     Create account in github.com, login and Add New Repository in Repositories section. 
