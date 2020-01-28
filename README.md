@@ -10,6 +10,7 @@ Create new repository, push this file with answers and send me a like;
 ### 3. How to install webpack to your project and where to wright configurations?
     Add folowing lines to package.json file: "build":"webpack"
     Run build command "npm run build"
+    Write webpack configurations in webpack.config.js file
 ### 4. How and where need to add webpack build and watch command?
     Write folowing lines in package.json file:
     "build": "webpack",
